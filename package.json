@@ -1,0 +1,22 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "A single page web app that lets you list and complete todo items.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoASedano/todoList.git"
+  },
+  "author": "Marco Sedano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoASedano/todoList/issues"
+  },
+  "homepage": "https://github.com/MarcoASedano/todoList#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
